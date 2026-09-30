@@ -1,0 +1,33 @@
+STATEMENT
+
+This project is a collection of Python programs created for learning, practice, and basic software development.
+
+It includes programs related to student records, fee calculation, registration numbers, file handling, and data structures.
+
+The aim of this project is to improve my understanding of Python programming and to apply fundamental concepts in real examples.
+
+I have worked on simple programs that help me practice variables, loops, conditions, functions, lists, tuples, dictionaries, and arrays.
+
+This project also helps me understand how Python can be used to manage information and solve everyday problems effectively.
+
+I have created multiple scripts to explore the use of input and output, conditional logic, and data storage.
+
+These programs provide hands-on experience in writing clean and structured code.
+
+Through this work, I have learned how to organize program files and manage different tasks separately.
+
+The project helps me build confidence in problem-solving and logical thinking.
+
+It also improves my ability to understand and debug code when errors occur.
+
+I believe that this project is an important step in my learning journey.
+
+It has strengthened my interest in software development and computer programming.
+
+I am using Python as a practical tool to develop my technical skills.
+
+This statement reflects my effort to learn, practice, and improve in the field of programming.
+
+Date: 30-09-2026
+
+Prepared by: Student
